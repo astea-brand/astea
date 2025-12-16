@@ -1,5 +1,1 @@
-
-body { margin:0; font-family: serif; background:white; }
-header { display:flex; justify-content:space-between; padding:20px; }
-.hero { text-align:center; padding:20px; }
-.btn { padding:10px 20px; border:1px solid black; text-decoration:none; }
+body{font-family:Arial;background:#fff;color:#000;text-align:center;} header{padding:20px;} nav a{margin:10px;} .logo{font-size:28px;} .hero{margin-top:60px;}
